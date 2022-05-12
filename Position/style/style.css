@@ -1,0 +1,73 @@
+body {
+    /*atribut:valoare;*/
+    background: #da1a08;
+}
+
+.container {
+    background: black;
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+.square1{
+    background: blue;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 70px;
+    top: 50px;
+}
+
+.rectangle{
+    background: pink;
+    width: 50px;
+    height: 250px;
+    position: absolute;
+    top: 100px;
+    left: 180px;
+}
+.square2{
+    background: purple;
+    width: 50px;
+    height: 100px;
+    margin-top: 50px;
+}
+.square3{
+    background: green;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 100px;
+    bottom: 90px;
+}
+.square4{
+    background: #de4802;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    right: 140px;
+    top: 110px;
+}
+.square5{
+    background: blue;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    right: 80px;
+    top: 280px;
+}
+.rectangle1{
+    background: pink;
+    width: 250px;
+    height:50px;
+    position: absolute;
+    bottom: 20px;
+    right: 40px;
+}
+.square6{
+    background: white;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    right: 50px;
+}
